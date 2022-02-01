@@ -86,7 +86,7 @@ font-family:Arial Rounded MT;
 grid-template-columns:50% 50%;
 }
 .sb{
-grid-area:1/ 1/ 2/ 3;
+grid-area:1/ 1/ 1/ 3;
 }
 .sb1,.sb2{
 grid-row: 2;
